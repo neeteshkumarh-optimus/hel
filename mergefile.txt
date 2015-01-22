@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merge file in master brach.
+=======
+hello it is a  file to merge on master branch.
+>>>>>>> sprint1
