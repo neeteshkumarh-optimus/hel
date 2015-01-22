@@ -1,1 +1,5 @@
+<<<<<<< .mine
 conflicting file on branch sn
+=======
+hello it is a  file to merge on master branch.
+>>>>>>> .theirs
